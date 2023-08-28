@@ -1,5 +1,5 @@
 - 👋 Hi, I’m PizzaSteve
-- 👀 I’m interested in React.js
+- 👀 I’m interested in Nuxt.js
 - 📫 How to reach me hazemelfeky25@gmail.com
 
 <!---
