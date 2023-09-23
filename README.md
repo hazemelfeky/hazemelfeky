@@ -1,10 +1,17 @@
-- 👋 Hi, I’m PizzaSteve
-- 👀 I’m interested in Nuxt.js
-- 📫 How to reach me hazemelfeky25@gmail.com
+<h2> Hi, I'm Hazem Elefky! </h2>
+<img align='right' src="https://media.giphy.com/media/MnEr6CZATHskQ4dV8o/giphy.gif" width="230">
+<p><em>Front-End Developer at Finiex soft <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
-<!---
-hazemelfeky/hazemelfeky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
-- 🌱 I’m currently not learning 🤦‍♂️
---->
+[![Linkedin: hazem-ahmed25](https://img.shields.io/badge/hazem-ahmed25?logo=linkedin&color=blue)](https://www.linkedin.com/in/hazem-ahmed25/)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const hazem = {
+  name: "hazem elfeky",
+  aka: "pizza steve",
+  code: [Javascript, HTML, CSS],
+  tools: [Vue.js, Nuxt.js, Tailwind, React, Element UI],
+ challenge: "I am doing the #100DaysOfCode challenge focused on JS and Vue.js"
+}
+```
