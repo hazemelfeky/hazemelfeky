@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hazem Elefky! </h2>
+<h2> Hi, I'm Hazem Elfeky! </h2>
 <img align='right' src="https://media.giphy.com/media/MnEr6CZATHskQ4dV8o/giphy.gif" width="230">
 <p><em>Front-End Developer at Finiex soft <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p>
 
