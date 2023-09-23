@@ -12,6 +12,6 @@ const hazem = {
   aka: "pizza steve",
   code: [Javascript, HTML, CSS],
   tools: [Vue.js, Nuxt.js, Tailwind, React, Element UI],
- challenge: "I am doing the #100DaysOfCode challenge focused on JS and Vue.js"
+  challenge: "I am doing the #100DaysOfCode challenge focused on JS and Vue.js"
 }
 ```
