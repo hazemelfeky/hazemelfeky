@@ -11,8 +11,7 @@
 const hazem = {
   name: "hazem elfeky",
   aka: "pizza steve",
-  code: [Javascript, HTML, CSS],
-  tools: [Vue.js, Nuxt.js, Tailwind, React, Element UI],
+  skills: ["HTML", "Sass", "Javascript", "Vue.js", "Nuxt.js", "React.js"],
   challenge: "I am doing the #100DaysOfCode challenge focused on JS and Vue.js"
 }
 ```
